@@ -149,7 +149,7 @@ If you declare an observer with a name that is already in use within the same ev
 
 ### Disabling an observer
 
-Existing observers can be disabled, if you do not want to have them running. It is a good practice to disable the obsever if you want to change its logic rather than override it.
+Existing observers can be disabled, if you do not want to have them running. It is a good practice to disable the observer if you want to change its logic rather than override it.
 Below is an example of how to disable the previously created observer.
 
 ```xml
